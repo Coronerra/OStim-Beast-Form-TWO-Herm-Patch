@@ -1,3 +1,11 @@
+> ## ⚠️ Deprecated: use OStim Beast Form Merged 0.7
+>
+> This project is no longer updated. **[OStim Beast Form Merged 0.7](https://github.com/Coronerra/OStim-Beast-Form-Merged)** replaces it: one download with one installer for Growl and TWO users, all on the TWO body ([v0.7 release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/tag/v0.7)).
+>
+> In the 0.7 installer, tick **Hermaphrodite patch (Fruta)**. It installs the same plugin, so remove this mod after installing 0.7. I am still not going to test it myself; please report problems in the support section of the [OStim Beast Form Merged](https://www.loverslab.com/files/file/52768-ostim-beast-form-merged/) page on LoversLab. See [Updating to 0.7](https://github.com/Coronerra/OStim-Beast-Form-Merged#updating-to-07).
+>
+> This repo and its old releases stay up for reference.
+
 # OStim Beast Form TWO Herm Patch 0.1
 
 > **Download:** [v0.1 release](https://github.com/Coronerra/OStim-Beast-Form-TWO-Herm-Patch/releases/tag/v0.1) → `OStim_Beast_Form_TWO_Herm_Patch_0.1.zip` (install with MO2).
