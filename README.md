@@ -78,7 +78,7 @@ TWO's herm / urta actor is still flagged as female, with no penis flag, so OStim
 2. **Adds an OStim actor property for herm / urta.** When the player is in werewolf form and the herm global is 1 or 2, it adds a hidden ability from this plugin. A new OStim actor-property file matches that ability: type `Werewolf`, sex `male` (so `OStim.HasSchlong` / `IsFemale` follow the penis; `AppearsFemale` still follows the actor's female sex), and penis, testicles, vagina, breast, nipple, anus, mouth, hand and foot all true.
 3. **Wins the priority check cleanly.** The condition perk's level is 50. OStim picks the highest perk level when more than one actor property of the same type matches. Beast Form's Female/Male properties are level 19 (OCR uses 20), so the herm property is the one OStim uses. The Female property is not edited or dispelled; it just loses the priority check while the ability is on. Turning herm off (or reverting) removes the ability, and Female/Male behave as before.
 4. **Aroused cock swap.** `OBL_Main` only equips the aroused addon when `GetSex()` is male. This patch equips the same existing addon for the herm / urta player, from whichever Beast Form plugin is loaded:
-   - Merged 0.6 + TWO Patch: GT Softbody `Addon_Dog_Black_Hard`
+   - Merged 0.6 + TWO Patch: [GT Softbody](https://www.nexusmods.com/skyrimspecialedition/mods/152103) `Addon_Dog_Black_Hard`
    - TWO Edition 0.2: TWO's `CanineRedHard` path (already set on that edition; this zip does not include the mesh)
 
    It does not fight TWO's herm / urta body skin swap; it only adds the aroused addon the same way males get it. If `OCreatures.esp` is present, this patch steps aside and leaves the swap to OCR, the same way `OBL_Main` does.
