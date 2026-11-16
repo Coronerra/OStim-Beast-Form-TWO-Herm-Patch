@@ -1,8 +1,8 @@
-> ## ⚠️ Deprecated: use OStim Beast Form Merged 0.7
+> ## ⚠️ Deprecated: use OStim Beast Form Merged (latest: 0.8.1)
 >
-> This project is no longer updated. **[OStim Beast Form Merged 0.7](https://github.com/Coronerra/OStim-Beast-Form-Merged)** replaces it: one download with one installer for Growl and TWO users, all on the TWO body ([v0.7 release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/tag/v0.7)).
+> This project is no longer updated. **[OStim Beast Form Merged](https://github.com/Coronerra/OStim-Beast-Form-Merged)** replaces it: one download with one installer for Growl and TWO users, all on the TWO body. **Latest: [v0.8.1 release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/tag/v0.8.1)** (always current: [latest release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/latest)). Since 0.8 it is built for Lirael Atelier's [Werewolf and Vampire Lord OStim 0.2.3](https://www.patreon.com/LiraelAtelier/posts/werewolf-and-for-175434973), the recommended animation source.
 >
-> In the 0.7 installer, tick **Hermaphrodite patch (Fruta)**. It installs the same plugin, so remove this mod after installing 0.7. I am still not going to test it myself; please report problems in the support section of the [OStim Beast Form Merged](https://www.loverslab.com/files/file/52768-ostim-beast-form-merged/) page on LoversLab. See [Updating to 0.7](https://github.com/Coronerra/OStim-Beast-Form-Merged#updating-to-07).
+> In the Merged installer, tick **Hermaphrodite patch (Fruta)**. It installs the same plugin, so remove this mod after installing Merged. I am still not going to test it myself; please report problems in the support section of the [OStim Beast Form Merged](https://www.loverslab.com/files/file/52768-ostim-beast-form-merged/) page on LoversLab. See [Updating](https://github.com/Coronerra/OStim-Beast-Form-Merged#updating).
 >
 > This repo and its old releases stay up for reference.
 
