@@ -1,4 +1,5 @@
-> ## ⚠️ Deprecated: use OStim Beast Form Merged (latest: 0.8.1)
+># ⚠️ DEPRECIATED! ⚠️
+> # GO TO (https://github.com/Coronerra/OStim-Beast-Form/)
 >
 > This project is no longer updated. **[OStim Beast Form Merged](https://github.com/Coronerra/OStim-Beast-Form-Merged)** replaces it: one download with one installer for Growl and TWO users, all on the TWO body. **Latest: [v0.8.1 release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/tag/v0.8.1)** (always current: [latest release](https://github.com/Coronerra/OStim-Beast-Form-Merged/releases/latest)). Since 0.8 it is built for Lirael Atelier's [Werewolf and Vampire Lord OStim 0.2.3](https://www.patreon.com/LiraelAtelier/posts/werewolf-and-for-175434973), the recommended animation source.
 >
